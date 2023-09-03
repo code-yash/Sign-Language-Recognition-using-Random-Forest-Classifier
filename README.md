@@ -1,1 +1,1 @@
-# Sign-Language-Recognition-using-Random-Forest-Classifier
+# SignSight - Real-Time Sign Language Recognition using Random-Forest-Classifier
